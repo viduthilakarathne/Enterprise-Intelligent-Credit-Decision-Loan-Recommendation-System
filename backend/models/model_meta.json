@@ -1,0 +1,20 @@
+{
+  "model_name": "XGBoost Enterprise Loan Scheme Predictor",
+  "accuracy": 0.968,
+  "features": [
+    "customer_age",
+    "monthly_salary",
+    "credit_score",
+    "savings_balance",
+    "dti_ratio",
+    "existing_loans",
+    "employment_type",
+    "branch_category"
+  ],
+  "classes": [
+    "Super-Prime Privilege Loan",
+    "Enterprise Preferred Express Loan",
+    "Standard Credit Builder Loan",
+    "Guaranteed Secured Loan"
+  ]
+}
