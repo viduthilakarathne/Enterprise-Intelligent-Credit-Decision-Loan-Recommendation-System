@@ -15,7 +15,7 @@
 
 ---
 
-> **An end-to-end, production-grade Machine Learning system for retail banking that ingests real-time customer financial events, engineers features through a dedicated Feature Store, trains an XGBoost classifier achieving 96.8% precision (0.984 ROC-AUC), and serves personalized loan scheme recommendations with sub-15ms latency through a FastAPI REST layer — all explained by SHAP Explainable AI and monitored via Prometheus + Grafana.**
+> **An end-to-end, production-grade Machine Learning system for retail banking that ingests real-time customer financial events, engineers features through a dedicated Feature Store, trains an XGBoost classifier , and serves personalized loan scheme recommendations with sub-15ms latency through a FastAPI REST layer — all explained by SHAP Explainable AI and monitored via Prometheus + Grafana.**
 
 </div>
 
