@@ -135,7 +135,7 @@ This project demonstrates mastery across the **full ML engineering stack** — f
 | Feature | Description |
 |---|---|
 | 🏪 **Dedicated Feature Store** | Feast with Redis online cache (<2ms) + Snowflake offline sync for 360° customer view |
-| 🤖 **XGBoost Production Model** | 96.8% precision, 0.984 ROC-AUC, sub-15ms inference latency |
+| 🤖 **XGBoost Production Model** |  precision,  ROC-AUC, sub-15ms inference latency |
 | 💡 **SHAP Explainable AI** | Transparent feature attribution waterfall per credit decision — regulatory-ready |
 | 🔄 **Continuous Feedback Loop** | Customer acceptance/rejection events → Kafka → Airflow → Automated retraining |
 | 📊 **MLflow Registry** | Full experiment tracking, model versioning, stage promotion (Dev → Staging → Production) |
